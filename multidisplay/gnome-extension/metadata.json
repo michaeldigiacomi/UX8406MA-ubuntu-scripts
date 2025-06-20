@@ -1,0 +1,9 @@
+{
+  "uuid": "asus-multidisplay@ux8406ma",
+  "name": "ASUS MultiDisplay Monitor",
+  "description": "Automatically toggle secondary display when ASUS Zenbook keyboard is connected/disconnected",
+  "version": 1,
+  "shell-version": ["42", "43", "44", "45"],
+  "url": "https://github.com/mdigiacomi/UX8406MA-ubuntu-scripts",
+  "settings-schema": "org.gnome.shell.extensions.asus-multidisplay"
+}
